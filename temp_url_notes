@@ -1,0 +1,3 @@
+'Related Videos' API:
+
+https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=24&key=youtube_api.key&channelId=youtube_api.channelId
